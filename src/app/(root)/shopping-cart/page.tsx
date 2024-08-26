@@ -166,7 +166,7 @@ const ShoppingCard = () => {
               has been removed.
             </p>
             <Link href={'/products'}>
-                <button className='bg-sky-600 text-white px-10 py-3 rounded hover:bg-transparent hover:text-black border hover:border-sky-500 transition duration-200 ease'>
+              <button className='bg-sky-600 text-white px-10 py-3 rounded hover:bg-transparent hover:text-black border hover:border-sky-500 transition duration-200 ease'>
                 Products
               </button>
             </Link>
